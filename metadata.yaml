@@ -1,8 +1,11 @@
 _repo: Twenty-Three-Stories-by-Twenty-and-Three-Authors_62347
-_version: 0.1.0
+_version: 0.2.0
 alternative_title:
 - 23 Stories by Twenty and Three Authors
 - 23 Stories by 20 and 3 Authors
+covers:
+- cover_type: archival
+  image_path: 62347-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Dawson Scott, C. A. (Catharine Amy)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6540
     wikipedia: https://en.wikipedia.org/wiki/Ernest_Rhys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62347#Twenty-Three-Stories-by-Twenty-and-Three-Authors
 gutenberg_issued: '2020-06-08'
 gutenberg_type: Text
 identifiers:
