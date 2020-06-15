@@ -1,0 +1,50 @@
+_repo: Twenty-Three-Stories-by-Twenty-and-Three-Authors_62347
+_version: 0.0.1
+alternative_title:
+- 23 Stories by Twenty and Three Authors
+- 23 Stories by 20 and 3 Authors
+creator:
+  editors:
+  - agent_name: Dawson Scott, C. A. (Catharine Amy)
+    aliases:
+    - Scott, C. A. Dawson (Catharine Amy Dawson)
+    - Scott, Catharine Amy Dawson
+    - Dawson-Scott, C. A.
+    birthdate: 1865
+    deathdate: 1934
+    gutenberg_agent_id: '37217'
+    url: http://www.gutenberg.org/2009/agents/37217
+    wikipedia: https://en.wikipedia.org/wiki/Catherine_Amy_Dawson_Scott
+  - agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_Rhys
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Kerfol / Edith Wharton -- The Chink and the child / Thomas Burke
+  -- The nomad / Robert Hichens -- The crucifixion of the outcast / W.B. Yeats --
+  The drums of Kairwan / the Marquess Curzon of Kedleston -- A life, a bowl of rice
+  / L. de Bra -- Hodge / Elinor Mordaunt -- Hatteras / A.[E.]W. Mason -- The ransom
+  / Cutcliffe Hyne -- The other twin / Edwin Pugh -- The narrow way / R. Ellis Roberts
+  -- Davy Jones's gift / John Masefield -- The call of the hand / Louis Golding --
+  The sentimental mortgage / Arthur Lynch -- Captain Sharkey / A. Conan Doyle -- Violence
+  / Algernon Blackwood -- The reward of enterprise / Ward Muir -- Grear's dam / Morley
+  Roberts -- The king of Maleka / H. de Vere Stacpoole -- Alleluia / T.F. Powys --
+  The monkey's paw / W.W. Jacobs -- The creatures / Walter de la Mare -- The Taipan
+  / W. Somerset Maugham.
+title: Twenty-Three Stories by Twenty and Three Authors
+url: http://www.gutenberg.org/ebooks/62347
